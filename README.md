@@ -1,2 +1,2 @@
 # hello-world
-ideas storage repository
+I'm a digital brand designer working for Springer Nature.
